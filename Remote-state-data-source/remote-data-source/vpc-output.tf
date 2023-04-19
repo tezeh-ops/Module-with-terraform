@@ -1,6 +1,5 @@
+# VPC Output Values
 
-# VPC Output Values. Since we are calling it from a module, it will be "mudole.vpc_the output we what to see." 
-# We can see the list of output on thw web as well.
 # VPC ID
 output "vpc_id" {
   description = "The ID of the VPC"
